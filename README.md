@@ -1,8 +1,3 @@
-# React + Vite
+I have set up this setup by using vite to start with the react in the basic way possible. After that i have worked on the instructions as they were given on the pdf file and made navigation bar first as it was going to be displayed on all pages.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This Project is not completed as there were some issues and some things which i did not know how to do so i will be working on these lately.
